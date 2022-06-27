@@ -1,0 +1,12 @@
+path: ../drive/MyDrive/cat_breed_annotated  # dataset root dir
+train: images/train
+val: images/val
+# test:  # test images (optional)
+
+# Classes
+nc: 12
+names: ['Angora', 'Balinese', 'Bombay', 'Calico', 'Chartreux', 'LaPerm', 'Leopard', 'PixieBob', 'ScottishFold', 'Sphynx', 'Tortoiseshell', 'Tuxedo']
+
+
+# Download script/URL (optional)
+# download: https://ultralytics.com/assets/coco128.zip
